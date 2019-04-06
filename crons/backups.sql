@@ -1,0 +1,1 @@
+mysqldump -u a6397356_app -p BD@sistema2016 -h mysql2.000webhost.com  a6397356_app | gzip > backups/respaldo_db.sql.gz
